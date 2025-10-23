@@ -36,7 +36,7 @@ export default function Contact() {
           variant="h1"
           component={"h1"}
           fontWeight="bold"
-          sx={{ mb: 3 ,fontSize: { xs: 20, md: 50 } }}}
+          sx={{ mb: 3,fontSize: { xs: 20, md: 50 } }}
         >
           Contactez-moi
         </Typography>
