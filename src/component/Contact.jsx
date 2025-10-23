@@ -103,7 +103,7 @@ export default function Contact() {
           <GitHub />
         </motion.a>
         <motion.a
-          https://web.facebook.com/?_rdc=1&_rdr
+        href="https://web.facebook.com/?_rdc=1&_rdr"
           target="_blank"
           style={{
             backgroundColor: colors.indigo[500],
@@ -122,7 +122,7 @@ export default function Contact() {
           <Facebook />
         </motion.a>{" "}
         <motion.a
-          https://www.linkedin.com/in/dev-junior-905162352/
+          href="https://www.linkedin.com/in/dev-junior-905162352/"
           target="_blank"
           style={{
             backgroundColor: colors.indigo[500],
