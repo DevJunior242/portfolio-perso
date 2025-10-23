@@ -78,7 +78,7 @@ export default function Skills() {
         variant="h1"
         component={"h1"}
         fontWeight="bold"
-        sx={{ mb: 3 }}
+        sx={{ mb: 3,fontSize:{xs:20,md:50} }}
       >
         Mes compétences
       </Typography>
