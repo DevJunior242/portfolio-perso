@@ -103,7 +103,7 @@ export default function Contact() {
           <GitHub />
         </motion.a>
         <motion.a
-          href="https://github.com/DevJunior242"
+          https://web.facebook.com/?_rdc=1&_rdr
           target="_blank"
           style={{
             backgroundColor: colors.indigo[500],
@@ -122,7 +122,7 @@ export default function Contact() {
           <Facebook />
         </motion.a>{" "}
         <motion.a
-          href="https://github.com/DevJunior242"
+          https://www.linkedin.com/in/dev-junior-905162352/
           target="_blank"
           style={{
             backgroundColor: colors.indigo[500],
@@ -139,65 +139,9 @@ export default function Contact() {
           transition={{ duration: 0.5 }}
         >
           <LinkedIn />
-          <motion.a />
+          
         </motion.a>{" "}
-        <motion.a
-          href="https://github.com/DevJunior242"
-          target="_blank"
-          style={{
-            backgroundColor: colors.indigo[500],
-            color: "white",
-            padding: "10px 20px",
-            border: `1px solid ${colors.gray[10]}`,
-            borderRadius: 10,
-            boxShadow: 2,
-          }}
-          initial={{ opacity: 0, y: 50 }}
-          animate={{ opacity: 1, y: 0 }}
-          exit={{ opacity: 0, y: -50 }}
-          whileHover={{ scale: 1.2 }}
-          transition={{ duration: 0.5 }}
-        >
-          <Twitter />
-        </motion.a>
-        <motion.a
-          href="https://github.com/DevJunior242"
-          target="_blank"
-          style={{
-            backgroundColor: colors.indigo[500],
-            color: "white",
-            padding: "10px 20px",
-            border: `1px solid ${colors.gray[10]}`,
-            borderRadius: 10,
-            boxShadow: 2,
-          }}
-          initial={{ opacity: 0, y: 50 }}
-          animate={{ opacity: 1, y: 0 }}
-          exit={{ opacity: 0, y: -50 }}
-          whileHover={{ scale: 1.2 }}
-          transition={{ duration: 0.5 }}
-        >
-          <Instagram />
-        </motion.a>
-        <motion.a
-          href="https://github.com/DevJunior242"
-          target="_blank"
-          style={{
-            backgroundColor: colors.indigo[500],
-            color: "white",
-            padding: "10px 20px",
-            border: `1px solid ${colors.gray[10]}`,
-            borderRadius: 10,
-            boxShadow: 2,
-          }}
-          initial={{ opacity: 0, y: 50 }}
-          animate={{ opacity: 1, y: 0 }}
-          exit={{ opacity: 0, y: -50 }}
-          whileHover={{ scale: 1.2 }}
-          transition={{ duration: 0.5 }}
-        >
-          <WhatsApp />
-        </motion.a>
+         
       </Box>
       <Button
         variant="contained"
