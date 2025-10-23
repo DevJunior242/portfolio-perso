@@ -38,7 +38,7 @@ export default function About() {
         />
 
         <Typography variant="body1" lineHeight={1.8} sx={{ ml: 2 }}>
-          Bonjour 👋 Je m'appelle <b>Dev Junior</b>, un développeur web
+          Bonjour Je m'appelle <b>Diakpaguili Yonli</b>, un développeur web
           <b> full-stack </b>passionné basé au Burkina Faso. Je conçois et
           développe des applications web modernes, performantes et intuitives
           avec les technologies que j’aime :<b>Laravel, React, Tailwind CSS</b>{" "}
@@ -49,7 +49,7 @@ export default function About() {
           Mon objectif est de transformer des idées en solutions digitales
           efficaces, tout en offrant une expérience utilisateur fluide et un
           code propre. Je m'intéresse aussi à l’intégration de paiements
-          (CinetPay, Stripe, PayPal) et à l’automatisation via des API.
+          (Paydunya, Stripe, PayPal) et à l’automatisation via des API.
           <br />
           <Divider />
           <br />
